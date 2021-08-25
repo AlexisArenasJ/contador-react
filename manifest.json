@@ -1,0 +1,26 @@
+{
+  "name": "Contador App React",
+  "short_name": "Counter React",
+  "description": "Contador con React cnd",
+  "background_color": "#555555",
+  "theme_color": "#252222",
+  "start_url": "./estructura.html",
+  "scope": "./estructura.html",
+  "lang": "es-MX",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
